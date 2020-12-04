@@ -1,4 +1,4 @@
-# EverymanBio Fungi DNA Barcoding Chromatogram Explorer
+# EverymanBio Fungi DNA Barcoding Sequence Data
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EverymanBio/chromatograms/HEAD?filepath=analysis.ipynm)
 
